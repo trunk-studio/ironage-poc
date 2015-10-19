@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/trunk-studio/ironage-poc#readme",
   "devDependencies": {
+    "gulp": "^3.9.0",
     "gulp-webserver": "^0.9.1"
   }
 }
