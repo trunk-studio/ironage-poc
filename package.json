@@ -1,0 +1,22 @@
+{
+  "name": "ironage-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trunk-studio/ironage-poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trunk-studio/ironage-poc/issues"
+  },
+  "homepage": "https://github.com/trunk-studio/ironage-poc#readme",
+  "devDependencies": {
+    "gulp-webserver": "^0.9.1"
+  }
+}
