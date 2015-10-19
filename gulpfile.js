@@ -3,12 +3,11 @@ var webserver = require('gulp-webserver');
 
 gulp.task('webserver', function() {
 
-  gulp.src('./app/')
+  gulp.src('.')
     .pipe(webserver({
       livereload: true,
       directoryListing: {
-        enable:true,
-        path: 'app'
+        enable:true
       },
       open: true
 
